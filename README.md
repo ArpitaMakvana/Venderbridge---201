@@ -13,7 +13,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Latest Features
 
 - 🔐 Role-based access control (Admin, Procurement Officer, Manager, Vendor)
 - 🏢 Vendor registration and approval workflow
